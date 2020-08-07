@@ -27,6 +27,7 @@ sidebar_label: Movies and TV shows
   - [r/fulltvshowsonvimeo](https://www.removeddit.com/r/fulltvshowsonvimeo/)
   - [r/fulltvshowsonyoutube](https://www.removeddit.com/r/fulltvshowsonyoutube/)
 - [at.my TV](http://at-my.tv/) - TV Calendar, TV Episode Guide, TV Show Listings.
+- [Techie Pick](http://www.techiepick.com/) - Find Latest Technology, Gadgets News and Genuine reviews for Tablets, Mobile Phones, Cameras, Laptops and more only at Techie Pick.
 - [DuckieTV](http://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - A personalized calendar that tracks the shows you like/fav.
 - [Script Download Links](https://gointothestory.blcklst.com/script-download-links-9313356d361c?gi=3903aa2fdebf) - 100+ scripts made available by studios and production companies.
 - [Script Slug](https://www.scriptslug.com/) - Browse hundreds of screenplays.
